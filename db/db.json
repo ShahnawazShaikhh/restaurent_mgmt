@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "name": "shahnawaz",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "ss",
+      "password": "ssss",
+      "id": 2
+    },
+    {
+      "password": "12334",
+      "name": "shah",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "password": "1234",
+      "name": "shah",
+      "id": 13
+    },
+    {
+      "password": "ssss",
+      "name": "sss",
+      "id": 16
+    },
+    {
+      "password": "ssss",
+      "name": "sss",
+      "id": 17
+    },
+    {
+      "password": "2e",
+      "name": "2e",
+      "id": 18
+    },
+    {
+      "password": "1234",
+      "name": "ss",
+      "id": 19
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "address": "Chennai",
+      "contact": "999999",
+      "image": " ",
+      "id": 2
+    },
+    {
+      "name": "Starbucks",
+      "address": "Bangalore",
+      "contact": "555555",
+      "image": " ",
+      "id": 3
+    },
+    {
+      "name": "Dominos",
+      "address": "Andheri",
+      "contact": "7777777",
+      "image": " ",
+      "id": 4
+    },
+    {
+      "name": "",
+      "address": "",
+      "contact": "",
+      "image": " ",
+      "id": 5
+    },
+    {
+      "name": "",
+      "address": "",
+      "contact": "",
+      "image": {},
+      "id": 6
+    }
+  ]
+}
